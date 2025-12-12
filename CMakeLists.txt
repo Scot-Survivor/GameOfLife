@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.27)
-project(Better_PSO)
+project(GameOfLife)
 
 set(CMAKE_CXX_STANDARD 17)
 
